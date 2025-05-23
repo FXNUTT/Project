@@ -1,2 +1,2 @@
-# Project
-Me and Daniel
+# Project OOP P1T2
+space shooter
